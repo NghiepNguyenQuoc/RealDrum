@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 46,
+                    "endOffset": 97
+                },
+                "from": {
+                    "file": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 250,
+                        "endColumn": 46,
+                        "endOffset": 292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 102,
+                    "endColumn": 52,
+                    "endOffset": 150
+                },
+                "from": {
+                    "file": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 52,
+                        "endOffset": 346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 155,
+                    "endColumn": 63,
+                    "endOffset": 214
+                },
+                "from": {
+                    "file": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 63,
+                        "endOffset": 411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 219,
+                    "endColumn": 191,
+                    "endOffset": 406
+                },
+                "from": {
+                    "file": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/values-nl/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 191,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

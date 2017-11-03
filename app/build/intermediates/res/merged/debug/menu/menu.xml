@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_menu_preferences" android:id="@id/menu_preferences" android:title="@string/menu_preferences" />
+    <item android:icon="@drawable/ic_menu_info_details" android:id="@id/menu_about" android:title="@string/menu_about" />
+    <item android:icon="@drawable/ic_menu_star" android:id="@id/menu_more_apps" android:title="@string/menu_more_apps" />
+    <item android:icon="@drawable/ic_menu_lock" android:id="@id/menu_remove_ads" android:title="@string/menu_remove_ads" />
+    <item android:icon="@drawable/ic_menu_exit" android:id="@id/menu_exit" android:title="@string/menu_exit" />
+</menu>

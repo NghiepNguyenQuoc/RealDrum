@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads">
+    <org.anddev.andengine.opengl.view.RenderSurfaceView android:gravity="center" android:id="@id/xmllayoutRenderSurfaceView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerInParent="true" />
+    <com.google.ads.AdView android:id="@id/adView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/xmllayoutRenderSurfaceView" android:layout_alignRight="@id/xmllayoutRenderSurfaceView" ads:adSize="IAB_BANNER" ads:adUnitId="@string/admob_id" ads:loadAdOnCreate="false" />
+    <ProgressBar android:id="@id/loading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" android:layout_centerInParent="true" style="?android:attr/progressBarStyleLarge" />
+</RelativeLayout>

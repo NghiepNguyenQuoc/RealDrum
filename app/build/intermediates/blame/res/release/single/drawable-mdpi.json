@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/bt_play.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/bt_play.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/transparent_background.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/transparent_background.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/bt_rename.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/bt_rename.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/snare.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/snare.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/repeat.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/repeat.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/animation.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/animation.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/crash.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/crash.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_preferences.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_star.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_menu_star.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_lock.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_menu_lock.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_exit.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_menu_exit.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/bt_delete.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/bt_delete.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/kick.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/kick.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/vibrate.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/vibrate.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/white_background.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/white_background.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/ic_menu_info_details.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/ic_menu_info_details.png"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/drawable-mdpi/header.png",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/drawable-mdpi/header.png"
+    }
+]

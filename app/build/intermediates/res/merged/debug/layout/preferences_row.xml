@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/white_background"
+    android:baselineAligned="false"
+    android:gravity="center_vertical"
+    android:minHeight="50.0dip"
+    android:orientation="horizontal" >
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3.0"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@id/imageView"
+            android:layout_width="24.0dip"
+            android:layout_height="24.0dip" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:gravity="center_vertical"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="XXXXXX"
+            android:textAppearance="?android:textAppearanceMedium"
+            android:textColor="#ff000000" />
+
+        <TextView
+            android:id="@id/summaryView"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:text="YYYYYY"
+            android:textAppearance="?android:textAppearanceSmall" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3.0"
+        android:gravity="right|center"
+        android:orientation="vertical" >
+
+        <CheckBox
+            android:id="@id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="3.0dip" />
+    </LinearLayout>
+
+</LinearLayout>

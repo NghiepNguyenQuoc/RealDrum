@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="transparentLayout">false</item>
+    <item type="id" name="whiteLayout">false</item>
+    <item type="id" name="buttonClose">false</item>
+    <item type="id" name="textTitle">false</item>
+    <item type="id" name="buttonEdit">false</item>
+    <item type="id" name="listView">false</item>
+    <item type="id" name="xmllayoutRenderSurfaceView">false</item>
+    <item type="id" name="adView">false</item>
+    <item type="id" name="loading">false</item>
+    <item type="id" name="imageView">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="summaryView">false</item>
+    <item type="id" name="checkBox">false</item>
+    <item type="id" name="buttonRename">false</item>
+    <item type="id" name="buttonDelete">false</item>
+    <item type="id" name="menu_preferences">false</item>
+    <item type="id" name="menu_about">false</item>
+    <item type="id" name="menu_more_apps">false</item>
+    <item type="id" name="menu_remove_ads">false</item>
+    <item type="id" name="menu_exit">false</item>
+</resources>

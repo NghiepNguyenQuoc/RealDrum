@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="changeKick">
+        <item>None - Let the Kick 2</item>
+        <item>Block</item>
+        <item>Cowbell</item>
+        <item>Tambourine</item>
+    </string-array>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="adView" type="id">false</item>
+    <item name="buttonClose" type="id">false</item>
+    <item name="buttonDelete" type="id">false</item>
+    <item name="buttonEdit" type="id">false</item>
+    <item name="buttonRename" type="id">false</item>
+    <item name="checkBox" type="id">false</item>
+    <item name="imageView" type="id">false</item>
+    <item name="listView" type="id">false</item>
+    <item name="loading" type="id">false</item>
+    <item name="menu_about" type="id">false</item>
+    <item name="menu_exit" type="id">false</item>
+    <item name="menu_more_apps" type="id">false</item>
+    <item name="menu_preferences" type="id">false</item>
+    <item name="menu_remove_ads" type="id">false</item>
+    <item name="summaryView" type="id">false</item>
+    <item name="textTitle" type="id">false</item>
+    <item name="textView" type="id">false</item>
+    <item name="transparentLayout" type="id">false</item>
+    <item name="whiteLayout" type="id">false</item>
+    <item name="xmllayoutRenderSurfaceView" type="id">false</item>
+    <string name="admob_id">ca-app-pub-6268675248191294/2156229107</string>
+    <string name="admob_interstitial_id">ca-app-pub-6268675248191294/7923561104</string>
+    <string name="app_name">Real Drum</string>
+    <string name="billing_error">Sorry, your current Android OS is not supported.</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_close">Close</string>
+    <string name="dialog_edit">Edit</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="menu_more_apps">More Apps</string>
+    <string name="menu_preferences">Preferences</string>
+    <string name="menu_remove_ads">Remove Ads</string>
+    <string name="preferences_animation">Animation</string>
+    <string name="preferences_crash_to_china">Change the Crash to the China</string>
+    <string name="preferences_kick_2_to">Change the Kick 2 to:</string>
+    <string name="preferences_repeat">Repeat while playing record</string>
+    <string name="preferences_rimshot">Rimshot</string>
+    <string name="preferences_vibrate">Vibrate</string>
+    <string name="public_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqerQW7141U/tvObsf3Kv+J81kYYlHCWhohLlWZEkrXKA62wvaLc950wsFWM4KR0kBJwdbCxGy10KH1M8/SAhQ5g64uNossR95vEiuVvdlIsFLpK0rt8aMyiQyisVUAmo5qtv8f5zEgkq/BPFwkQ+/Jg9XS/2fS67jrFo9mVkoB88+5vennOAZsl8a4nMlSOtvP+cjvhJG664oj+rk5fQcxWUCdOmn01JniNAaRRHWXB9LXc53IkmRU+1WyVltz0w6Qm1Jy3+YhYfvrasxCa8fVuqgySY6FmBYq4+blU2HUN4cCjcXTwpyTsyzClkCxQDpDco9DGyeapSQCZCB5qp/QIDAQAB</string>
+    <string name="rate">Rate %s</string>
+    <string name="rate_cancel">No, Thanks</string>
+    <string name="rate_later">Remind me later</string>
+    <string name="rate_message">"If you enjoy using %s, would you mind taking a moment to rate it? It won't take more than a minute. Thanks for your support!"</string>
+    <string name="record_example">Example</string>
+    <string name="record_name_alredy_in_use">The name is already in use. Choose another name.</string>
+    <string name="record_name_not_possible">The new name is not possible.</string>
+    <string name="record_new_name">Enter a new name:</string>
+    <string name="record_no_record_found">No record found</string>
+    <string name="record_record">Record</string>
+    <string name="record_record_delete_message">Are you sure you want to delete this record?</string>
+    <string name="record_record_error">An error occurred while saving the record</string>
+    <string name="record_record_saved">Record saved</string>
+    <string name="record_records">Records</string>
+    <string name="sobre_check_the_app">Check the app</string>
+    <string name="sobre_for_android">for Android!</string>
+    <string name="sobre_rate">Rate</string>
+    <string name="sobre_share">Share</string>
+    <string name="sobre_share_with">Share with</string>
+    <string name="sobre_version">Version</string>
+    <style name="Theme.Dialog" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"/>
+    <style name="Theme.NoBackground" parent="@android:style/Theme">
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>

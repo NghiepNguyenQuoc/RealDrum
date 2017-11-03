@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="changeKick">
+        <item>Nenhum - Deixar o Bumbo 2</item>
+        <item>Bloco</item>
+        <item>Cowbell</item>
+        <item>Pandeiro</item>
+    </string-array>
+    <string name="billing_error">Desculpe, sua versão do Android OS não é suportada.</string>
+    <string name="dialog_cancel">Cancelar</string>
+    <string name="dialog_close">Fechar</string>
+    <string name="dialog_edit">Editar</string>
+    <string name="dialog_no">Não</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="menu_about">Sobre</string>
+    <string name="menu_exit">Sair</string>
+    <string name="menu_more_apps">Mais aplicativos</string>
+    <string name="menu_preferences">Preferências</string>
+    <string name="menu_remove_ads">Remover Propagandas</string>
+    <string name="preferences_animation">Animação</string>
+    <string name="preferences_crash_to_china">Trocar o Prato de Ataque pelo China</string>
+    <string name="preferences_kick_2_to">Mudar o Bumbo 2 para:</string>
+    <string name="preferences_repeat">Repetir ao tocar gravação</string>
+    <string name="preferences_rimshot">Rimshot (Aro da caixa)</string>
+    <string name="preferences_vibrate">Vibração</string>
+    <string name="rate">Avaliar o %s</string>
+    <string name="rate_cancel">Não, obrigado</string>
+    <string name="rate_later">Mais tarde</string>
+    <string name="rate_message">Se você gosta de usar o %s, que tal avaliá-lo? Não levará mais de um minuto. Agradecemos o seu apoio!</string>
+    <string name="record_example">Exemplo</string>
+    <string name="record_name_alredy_in_use">O nome já está sendo utilizado. Escolha outro nome.</string>
+    <string name="record_name_not_possible">O novo nome não é possível.</string>
+    <string name="record_new_name">Digite um novo nome:</string>
+    <string name="record_no_record_found">Nenhuma gravação encontrada</string>
+    <string name="record_record">Gravação</string>
+    <string name="record_record_delete_message">Você tem certeza que deseja excluir essa gravação?</string>
+    <string name="record_record_error">Um erro ocorreu a salvar essa gravação</string>
+    <string name="record_record_saved">Gravação salva</string>
+    <string name="record_records">Gravações</string>
+    <string name="sobre_check_the_app">Baixe o aplicativo</string>
+    <string name="sobre_for_android">para Android!</string>
+    <string name="sobre_rate">Avaliar</string>
+    <string name="sobre_share">Compartilhar</string>
+    <string name="sobre_share_with">Compartilhar com</string>
+    <string name="sobre_version">Versão</string>
+</resources>

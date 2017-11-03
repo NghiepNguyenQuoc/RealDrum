@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        applicationId "com.example.realdrum"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    lintOptions {
+        /**
+         * Set whether lint should check for fatal errors during release builds. Default is true.
+         * If issues with severity "fatal" are found, the release build is aborted.
+         */
+        checkReleaseBuilds false
+    }
+}
+
+dependencies {
+    compile project(':andEngineMultiTouchExtensionmaster')
+}

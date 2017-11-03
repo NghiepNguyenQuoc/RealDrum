@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/debug/layout/record_edit_row.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/layout/record_edit_row.xml"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/debug/layout/dialog.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/layout/dialog.xml"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/debug/layout/preferences_row.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/layout/preferences_row.xml"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/debug/layout/record_play_row.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/layout/record_play_row.xml"
+    }
+]

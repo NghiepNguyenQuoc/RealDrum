@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/menu/menu_no_ads.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/menu/menu_no_ads.xml"
+    },
+    {
+        "merged": "/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/res/merged/release/menu/menu.xml",
+        "source": "/home/nghiepnguyen/Desktop/RealDrum3/app/src/main/res/menu/menu.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="changeKick">
+        <item>Nenhum - Deixar o Bumbo 2</item>
+        <item>Bloco</item>
+        <item>Cowbell</item>
+        <item>Pandeiro</item>
+    </string-array>
+</resources>

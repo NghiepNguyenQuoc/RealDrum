@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/nghiepnguyen/Desktop/RealDrum3/andEngine/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6318aad4626a8dd2ff5a90b05f5e678a5976cf5f">
+        <dex dex="/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/pre-dexed/debug/classes_9bf6a62fb2c3663f87dba7ccc313b42fc97a2825.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/nghiepnguyen/Desktop/RealDrum3/andEngineMultiTouchExtensionmaster/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5a9d56a7c51b0141a38a271f2771b8ce13faa924">
+        <dex dex="/home/nghiepnguyen/Desktop/RealDrum3/app/build/intermediates/pre-dexed/debug/classes_90957a066e5b7771445c371d55163e8f61bda97d.jar" />
+    </item>
+
+</items>
